@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Brisa-Codes)](https://git.io/streak-stats)
-
 - 🔭 I’m currently working on my Web3 & Blockchain journey
 - 🌱 I’m currently learning Solidity
 - 💬 Ask me about Community Building
