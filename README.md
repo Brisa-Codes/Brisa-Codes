@@ -1,12 +1,3 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on my Web3 & Blockchain journey
-- 🌱 I’m currently learning Solidity
-- 💬 Ask me about Community Building
-- 📫 How to reach me: [[Email]](mailto:brisamukunde1@gmail.com)
-
-
-
 <h1>Hi 👋, I'm Brisa Mukunde</h1>
 <p>I am a frontend developer from Uganda. Solving problems using software.</p>
 <p> I’m currently working on my Web3 & Blockchain journey and building communities in Africa</p>
