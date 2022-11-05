@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Brisa Mukunde</h1>
-<p>I am a frontend developer from Uganda. Solving problems using software.</p>
+<p>I am a frontend developer solving problems using software.</p>
 <p> I’m currently working on my Web3 & Blockchain journey and building communities in Africa</p>
 
 
